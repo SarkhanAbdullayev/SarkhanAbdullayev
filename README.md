@@ -5,7 +5,7 @@ Front end Developer
 -------------------
 
 * 🌍  I'm based in Azerbaijan
-* ✉️  You can contact me at [syako44@gmail.com](mailto:syako44@gmail.com)
+* ✉️  You can contact me at [sarkhan6264@gmail.com](mailto:syako44@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://tello.netlify.app)
 
 <a href="https://www.github.com/SarkhanAbdullayev" target="_blank" rel="noreferrer"><img
